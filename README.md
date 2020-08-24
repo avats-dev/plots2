@@ -86,9 +86,13 @@ For installation, prerequisites include sqlite3 and rvm. [Click here for a compl
 
 ## Installation
 
-### Installation for Cloud9
+### Installation for GitPod
 
-For information on how to install for use with the cloud environment, please see [here](https://github.com/publiclab/plots2/wiki/Simple-Installation-for-Cloud9).
+- Fork our repo from https://github.com/publiclab/plots2.
+- Open this link https://gitpod.io/#https://github.com/your-username/plots2/
+or
+- 
+- Login with your github credentials, and you're good to go.
 
 ### Standard Installation
 
